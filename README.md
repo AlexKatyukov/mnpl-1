@@ -86,3 +86,4 @@ have other things to say.
 Used libs:
 
 * [Material Design Lite](https://getmdl.io/)
+* [jQuery](https://jquery.com/)
