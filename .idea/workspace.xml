@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edcf182b-ab05-4f56-ab9e-e08ed5ccf6c8" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mnpl-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.brown-orange.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/material.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mdl/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/main.php" afterDir="false" />
-    </list>
+    <list default="true" id="edcf182b-ab05-4f56-ab9e-e08ed5ccf6c8" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610028277760</updated>
-      <workItem from="1610028281790" duration="9303000" />
+      <workItem from="1610028281790" duration="9628000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1610113739518</created>
@@ -65,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610113739518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1610113935137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610113935137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
