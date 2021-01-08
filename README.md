@@ -80,3 +80,9 @@ have other things to say.
   minors
 * **vYYYY.XX.dev** (for example **v2021.02.dev**)
   — development version for major update
+  
+## Credentials
+
+Used libs:
+
+* [Material Design Lite](https://getmdl.io/)
